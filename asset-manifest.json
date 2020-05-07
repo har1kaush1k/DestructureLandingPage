@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/destructure-landing/static/css/main.d1b05096.chunk.css",
-    "main.js": "/destructure-landing/static/js/main.6fb14b40.chunk.js",
-    "main.js.map": "/destructure-landing/static/js/main.6fb14b40.chunk.js.map",
-    "runtime-main.js": "/destructure-landing/static/js/runtime-main.a50a9ae9.js",
-    "runtime-main.js.map": "/destructure-landing/static/js/runtime-main.a50a9ae9.js.map",
-    "static/js/2.bfa38620.chunk.js": "/destructure-landing/static/js/2.bfa38620.chunk.js",
-    "static/js/2.bfa38620.chunk.js.map": "/destructure-landing/static/js/2.bfa38620.chunk.js.map",
-    "index.html": "/destructure-landing/index.html",
-    "precache-manifest.1215202b148f8e05be34b6228a97e329.js": "/destructure-landing/precache-manifest.1215202b148f8e05be34b6228a97e329.js",
-    "service-worker.js": "/destructure-landing/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/destructure-landing/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.bfa38620.chunk.js.LICENSE.txt": "/destructure-landing/static/js/2.bfa38620.chunk.js.LICENSE.txt"
+    "main.css": "/DestructureLandingPage/static/css/main.d1b05096.chunk.css",
+    "main.js": "/DestructureLandingPage/static/js/main.f2e3b426.chunk.js",
+    "main.js.map": "/DestructureLandingPage/static/js/main.f2e3b426.chunk.js.map",
+    "runtime-main.js": "/DestructureLandingPage/static/js/runtime-main.0f38a6cd.js",
+    "runtime-main.js.map": "/DestructureLandingPage/static/js/runtime-main.0f38a6cd.js.map",
+    "static/js/2.bfa38620.chunk.js": "/DestructureLandingPage/static/js/2.bfa38620.chunk.js",
+    "static/js/2.bfa38620.chunk.js.map": "/DestructureLandingPage/static/js/2.bfa38620.chunk.js.map",
+    "index.html": "/DestructureLandingPage/index.html",
+    "precache-manifest.80611cfcc5d63512e576a056a8a190a1.js": "/DestructureLandingPage/precache-manifest.80611cfcc5d63512e576a056a8a190a1.js",
+    "service-worker.js": "/DestructureLandingPage/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/DestructureLandingPage/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.bfa38620.chunk.js.LICENSE.txt": "/DestructureLandingPage/static/js/2.bfa38620.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a50a9ae9.js",
+    "static/js/runtime-main.0f38a6cd.js",
     "static/js/2.bfa38620.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.6fb14b40.chunk.js"
+    "static/js/main.f2e3b426.chunk.js"
   ]
 }
