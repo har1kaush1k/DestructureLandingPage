@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DestructureLandingPage/static/css/main.d1b05096.chunk.css",
-    "main.js": "/DestructureLandingPage/static/js/main.994aab40.chunk.js",
-    "main.js.map": "/DestructureLandingPage/static/js/main.994aab40.chunk.js.map",
+    "main.css": "/DestructureLandingPage/static/css/main.f76965ee.chunk.css",
+    "main.js": "/DestructureLandingPage/static/js/main.ebffac92.chunk.js",
+    "main.js.map": "/DestructureLandingPage/static/js/main.ebffac92.chunk.js.map",
     "runtime-main.js": "/DestructureLandingPage/static/js/runtime-main.0f38a6cd.js",
     "runtime-main.js.map": "/DestructureLandingPage/static/js/runtime-main.0f38a6cd.js.map",
     "static/js/2.5dcfabe0.chunk.js": "/DestructureLandingPage/static/js/2.5dcfabe0.chunk.js",
     "static/js/2.5dcfabe0.chunk.js.map": "/DestructureLandingPage/static/js/2.5dcfabe0.chunk.js.map",
     "index.html": "/DestructureLandingPage/index.html",
-    "precache-manifest.639f94ec23887ed938212c87355274a9.js": "/DestructureLandingPage/precache-manifest.639f94ec23887ed938212c87355274a9.js",
+    "precache-manifest.770f0ce71507281d9895634704d1c330.js": "/DestructureLandingPage/precache-manifest.770f0ce71507281d9895634704d1c330.js",
     "service-worker.js": "/DestructureLandingPage/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/DestructureLandingPage/static/css/main.d1b05096.chunk.css.map",
+    "static/css/main.f76965ee.chunk.css.map": "/DestructureLandingPage/static/css/main.f76965ee.chunk.css.map",
     "static/js/2.5dcfabe0.chunk.js.LICENSE.txt": "/DestructureLandingPage/static/js/2.5dcfabe0.chunk.js.LICENSE.txt",
     "static/media/arrow-down.svg": "/DestructureLandingPage/static/media/arrow-down.adf5c575.svg",
     "static/media/arrow-right.svg": "/DestructureLandingPage/static/media/arrow-right.3d3f4616.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.0f38a6cd.js",
     "static/js/2.5dcfabe0.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.994aab40.chunk.js"
+    "static/css/main.f76965ee.chunk.css",
+    "static/js/main.ebffac92.chunk.js"
   ]
 }
