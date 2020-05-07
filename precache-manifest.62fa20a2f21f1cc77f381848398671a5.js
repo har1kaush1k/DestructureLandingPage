@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f44cb46437fead42860fb826a8346cd",
+    "revision": "79bbb4ba4a240ca8bb7bb1dd0b4afc25",
     "url": "/DestructureLandingPage/index.html"
   },
   {
-    "revision": "c1ecdc866658880120b0",
+    "revision": "2ca8522048e8764b25ae",
     "url": "/DestructureLandingPage/static/css/main.f76965ee.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DestructureLandingPage/static/js/2.b72c69be.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c1ecdc866658880120b0",
-    "url": "/DestructureLandingPage/static/js/main.1046f176.chunk.js"
+    "revision": "2ca8522048e8764b25ae",
+    "url": "/DestructureLandingPage/static/js/main.724730b0.chunk.js"
   },
   {
     "revision": "d511514db2701d7bea7f",
@@ -32,7 +32,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DestructureLandingPage/static/media/checkmark.86d8c7d7.svg"
   },
   {
+    "revision": "23daf376df8eb2f0ee246d39197bd0a8",
+    "url": "/DestructureLandingPage/static/media/conner-profile.23daf376.jpg"
+  },
+  {
     "revision": "931f68c4ead1c9cea8eb7f1e3ae98c0e",
     "url": "/DestructureLandingPage/static/media/destructure-icon.931f68c4.svg"
+  },
+  {
+    "revision": "86e377db785c1ce950dfec09b5cb56ea",
+    "url": "/DestructureLandingPage/static/media/hari-profile.86e377db.png"
+  },
+  {
+    "revision": "58c97d90de21301bec2ce77a34edd35d",
+    "url": "/DestructureLandingPage/static/media/hawk-profile.58c97d90.jpg"
+  },
+  {
+    "revision": "f5ec8ba48c64c2d5f1f18377ff5ab29b",
+    "url": "/DestructureLandingPage/static/media/zach-profile.f5ec8ba4.jpg"
   }
 ]);
