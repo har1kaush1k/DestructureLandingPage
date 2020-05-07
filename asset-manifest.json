@@ -1,29 +1,25 @@
 {
   "files": {
     "main.css": "/DestructureLandingPage/static/css/main.f76965ee.chunk.css",
-    "main.js": "/DestructureLandingPage/static/js/main.b2181fb2.chunk.js",
-    "main.js.map": "/DestructureLandingPage/static/js/main.b2181fb2.chunk.js.map",
+    "main.js": "/DestructureLandingPage/static/js/main.652e2b45.chunk.js",
+    "main.js.map": "/DestructureLandingPage/static/js/main.652e2b45.chunk.js.map",
     "runtime-main.js": "/DestructureLandingPage/static/js/runtime-main.0f38a6cd.js",
     "runtime-main.js.map": "/DestructureLandingPage/static/js/runtime-main.0f38a6cd.js.map",
-    "static/js/2.b72c69be.chunk.js": "/DestructureLandingPage/static/js/2.b72c69be.chunk.js",
-    "static/js/2.b72c69be.chunk.js.map": "/DestructureLandingPage/static/js/2.b72c69be.chunk.js.map",
+    "static/js/2.d929b239.chunk.js": "/DestructureLandingPage/static/js/2.d929b239.chunk.js",
+    "static/js/2.d929b239.chunk.js.map": "/DestructureLandingPage/static/js/2.d929b239.chunk.js.map",
     "index.html": "/DestructureLandingPage/index.html",
-    "precache-manifest.e5d9d7331bff0f9c86ac61ce5f2484f5.js": "/DestructureLandingPage/precache-manifest.e5d9d7331bff0f9c86ac61ce5f2484f5.js",
+    "precache-manifest.6bbe3c8936e350c69c9d6f23a22fe130.js": "/DestructureLandingPage/precache-manifest.6bbe3c8936e350c69c9d6f23a22fe130.js",
     "service-worker.js": "/DestructureLandingPage/service-worker.js",
     "static/css/main.f76965ee.chunk.css.map": "/DestructureLandingPage/static/css/main.f76965ee.chunk.css.map",
-    "static/js/2.b72c69be.chunk.js.LICENSE.txt": "/DestructureLandingPage/static/js/2.b72c69be.chunk.js.LICENSE.txt",
+    "static/js/2.d929b239.chunk.js.LICENSE.txt": "/DestructureLandingPage/static/js/2.d929b239.chunk.js.LICENSE.txt",
     "static/media/arrow-down.svg": "/DestructureLandingPage/static/media/arrow-down.adf5c575.svg",
     "static/media/checkmark.svg": "/DestructureLandingPage/static/media/checkmark.86d8c7d7.svg",
-    "static/media/conner-profile.jpg": "/DestructureLandingPage/static/media/conner-profile.23daf376.jpg",
-    "static/media/destructure-icon.svg": "/DestructureLandingPage/static/media/destructure-icon.931f68c4.svg",
-    "static/media/hari-profile.png": "/DestructureLandingPage/static/media/hari-profile.86e377db.png",
-    "static/media/hawk-profile.jpg": "/DestructureLandingPage/static/media/hawk-profile.58c97d90.jpg",
-    "static/media/zach-profile.jpg": "/DestructureLandingPage/static/media/zach-profile.f5ec8ba4.jpg"
+    "static/media/destructure-icon.svg": "/DestructureLandingPage/static/media/destructure-icon.931f68c4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0f38a6cd.js",
-    "static/js/2.b72c69be.chunk.js",
+    "static/js/2.d929b239.chunk.js",
     "static/css/main.f76965ee.chunk.css",
-    "static/js/main.b2181fb2.chunk.js"
+    "static/js/main.652e2b45.chunk.js"
   ]
 }
