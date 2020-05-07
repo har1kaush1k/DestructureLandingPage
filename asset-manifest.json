@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DestructureLandingPage/static/css/main.f76965ee.chunk.css",
-    "main.js": "/DestructureLandingPage/static/js/main.06745296.chunk.js",
-    "main.js.map": "/DestructureLandingPage/static/js/main.06745296.chunk.js.map",
+    "main.js": "/DestructureLandingPage/static/js/main.b2181fb2.chunk.js",
+    "main.js.map": "/DestructureLandingPage/static/js/main.b2181fb2.chunk.js.map",
     "runtime-main.js": "/DestructureLandingPage/static/js/runtime-main.0f38a6cd.js",
     "runtime-main.js.map": "/DestructureLandingPage/static/js/runtime-main.0f38a6cd.js.map",
     "static/js/2.b72c69be.chunk.js": "/DestructureLandingPage/static/js/2.b72c69be.chunk.js",
     "static/js/2.b72c69be.chunk.js.map": "/DestructureLandingPage/static/js/2.b72c69be.chunk.js.map",
     "index.html": "/DestructureLandingPage/index.html",
-    "precache-manifest.29154bd85fdb7530bdd434407910aaf2.js": "/DestructureLandingPage/precache-manifest.29154bd85fdb7530bdd434407910aaf2.js",
+    "precache-manifest.e5d9d7331bff0f9c86ac61ce5f2484f5.js": "/DestructureLandingPage/precache-manifest.e5d9d7331bff0f9c86ac61ce5f2484f5.js",
     "service-worker.js": "/DestructureLandingPage/service-worker.js",
     "static/css/main.f76965ee.chunk.css.map": "/DestructureLandingPage/static/css/main.f76965ee.chunk.css.map",
     "static/js/2.b72c69be.chunk.js.LICENSE.txt": "/DestructureLandingPage/static/js/2.b72c69be.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.0f38a6cd.js",
     "static/js/2.b72c69be.chunk.js",
     "static/css/main.f76965ee.chunk.css",
-    "static/js/main.06745296.chunk.js"
+    "static/js/main.b2181fb2.chunk.js"
   ]
 }
