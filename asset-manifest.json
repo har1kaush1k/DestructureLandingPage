@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/DestructureLandingPage/static/css/main.f76965ee.chunk.css",
-    "main.js": "/DestructureLandingPage/static/js/main.ed8d7126.chunk.js",
-    "main.js.map": "/DestructureLandingPage/static/js/main.ed8d7126.chunk.js.map",
+    "main.js": "/DestructureLandingPage/static/js/main.b1918b7b.chunk.js",
+    "main.js.map": "/DestructureLandingPage/static/js/main.b1918b7b.chunk.js.map",
     "runtime-main.js": "/DestructureLandingPage/static/js/runtime-main.0f38a6cd.js",
     "runtime-main.js.map": "/DestructureLandingPage/static/js/runtime-main.0f38a6cd.js.map",
-    "static/js/2.5dcfabe0.chunk.js": "/DestructureLandingPage/static/js/2.5dcfabe0.chunk.js",
-    "static/js/2.5dcfabe0.chunk.js.map": "/DestructureLandingPage/static/js/2.5dcfabe0.chunk.js.map",
+    "static/js/2.b72c69be.chunk.js": "/DestructureLandingPage/static/js/2.b72c69be.chunk.js",
+    "static/js/2.b72c69be.chunk.js.map": "/DestructureLandingPage/static/js/2.b72c69be.chunk.js.map",
     "index.html": "/DestructureLandingPage/index.html",
-    "precache-manifest.5a7f887fe667fa51d42d5661867421cc.js": "/DestructureLandingPage/precache-manifest.5a7f887fe667fa51d42d5661867421cc.js",
+    "precache-manifest.d8e2437d6848dda3b1a5eabfb882911d.js": "/DestructureLandingPage/precache-manifest.d8e2437d6848dda3b1a5eabfb882911d.js",
     "service-worker.js": "/DestructureLandingPage/service-worker.js",
     "static/css/main.f76965ee.chunk.css.map": "/DestructureLandingPage/static/css/main.f76965ee.chunk.css.map",
-    "static/js/2.5dcfabe0.chunk.js.LICENSE.txt": "/DestructureLandingPage/static/js/2.5dcfabe0.chunk.js.LICENSE.txt",
+    "static/js/2.b72c69be.chunk.js.LICENSE.txt": "/DestructureLandingPage/static/js/2.b72c69be.chunk.js.LICENSE.txt",
     "static/media/arrow-down.svg": "/DestructureLandingPage/static/media/arrow-down.adf5c575.svg",
     "static/media/checkmark.svg": "/DestructureLandingPage/static/media/checkmark.86d8c7d7.svg",
     "static/media/destructure-icon.svg": "/DestructureLandingPage/static/media/destructure-icon.931f68c4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0f38a6cd.js",
-    "static/js/2.5dcfabe0.chunk.js",
+    "static/js/2.b72c69be.chunk.js",
     "static/css/main.f76965ee.chunk.css",
-    "static/js/main.ed8d7126.chunk.js"
+    "static/js/main.b1918b7b.chunk.js"
   ]
 }
