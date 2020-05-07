@@ -1,19 +1,18 @@
 {
   "files": {
     "main.css": "/DestructureLandingPage/static/css/main.f76965ee.chunk.css",
-    "main.js": "/DestructureLandingPage/static/js/main.98cb1f72.chunk.js",
-    "main.js.map": "/DestructureLandingPage/static/js/main.98cb1f72.chunk.js.map",
+    "main.js": "/DestructureLandingPage/static/js/main.ed8d7126.chunk.js",
+    "main.js.map": "/DestructureLandingPage/static/js/main.ed8d7126.chunk.js.map",
     "runtime-main.js": "/DestructureLandingPage/static/js/runtime-main.0f38a6cd.js",
     "runtime-main.js.map": "/DestructureLandingPage/static/js/runtime-main.0f38a6cd.js.map",
     "static/js/2.5dcfabe0.chunk.js": "/DestructureLandingPage/static/js/2.5dcfabe0.chunk.js",
     "static/js/2.5dcfabe0.chunk.js.map": "/DestructureLandingPage/static/js/2.5dcfabe0.chunk.js.map",
     "index.html": "/DestructureLandingPage/index.html",
-    "precache-manifest.f641dfcbb66d8bb0e6011b7c20b0e03b.js": "/DestructureLandingPage/precache-manifest.f641dfcbb66d8bb0e6011b7c20b0e03b.js",
+    "precache-manifest.5a7f887fe667fa51d42d5661867421cc.js": "/DestructureLandingPage/precache-manifest.5a7f887fe667fa51d42d5661867421cc.js",
     "service-worker.js": "/DestructureLandingPage/service-worker.js",
     "static/css/main.f76965ee.chunk.css.map": "/DestructureLandingPage/static/css/main.f76965ee.chunk.css.map",
     "static/js/2.5dcfabe0.chunk.js.LICENSE.txt": "/DestructureLandingPage/static/js/2.5dcfabe0.chunk.js.LICENSE.txt",
     "static/media/arrow-down.svg": "/DestructureLandingPage/static/media/arrow-down.adf5c575.svg",
-    "static/media/arrow-right.svg": "/DestructureLandingPage/static/media/arrow-right.3d3f4616.svg",
     "static/media/checkmark.svg": "/DestructureLandingPage/static/media/checkmark.86d8c7d7.svg",
     "static/media/destructure-icon.svg": "/DestructureLandingPage/static/media/destructure-icon.931f68c4.svg"
   },
@@ -21,6 +20,6 @@
     "static/js/runtime-main.0f38a6cd.js",
     "static/js/2.5dcfabe0.chunk.js",
     "static/css/main.f76965ee.chunk.css",
-    "static/js/main.98cb1f72.chunk.js"
+    "static/js/main.ed8d7126.chunk.js"
   ]
 }

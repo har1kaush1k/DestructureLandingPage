@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65665414c11af833e9026c55eee835eb",
+    "revision": "7dfa15edb30a55758806c02bf84d7241",
     "url": "/DestructureLandingPage/index.html"
   },
   {
-    "revision": "402d10c9baa8108fc8d2",
+    "revision": "c2c3c8c53261f239d695",
     "url": "/DestructureLandingPage/static/css/main.f76965ee.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DestructureLandingPage/static/js/2.5dcfabe0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "402d10c9baa8108fc8d2",
-    "url": "/DestructureLandingPage/static/js/main.98cb1f72.chunk.js"
+    "revision": "c2c3c8c53261f239d695",
+    "url": "/DestructureLandingPage/static/js/main.ed8d7126.chunk.js"
   },
   {
     "revision": "d511514db2701d7bea7f",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "adf5c5754732269fd3d015a221e0d73b",
     "url": "/DestructureLandingPage/static/media/arrow-down.adf5c575.svg"
-  },
-  {
-    "revision": "3d3f46162a6e98074e2e19cb991ef13f",
-    "url": "/DestructureLandingPage/static/media/arrow-right.3d3f4616.svg"
   },
   {
     "revision": "86d8c7d787cd3963a6b3838a49243f24",
