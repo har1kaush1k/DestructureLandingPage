@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef93c7b445c00a4061cfeb0e80d8c972",
+    "revision": "31207c683f09d8946ab23ca79c559ff0",
     "url": "/DestructureLandingPage/index.html"
   },
   {
-    "revision": "09ed16ed68487f1c600b",
+    "revision": "3d3517c76d903fcb2cb1",
     "url": "/DestructureLandingPage/static/css/main.f76965ee.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DestructureLandingPage/static/js/2.d929b239.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "09ed16ed68487f1c600b",
-    "url": "/DestructureLandingPage/static/js/main.eaa0af85.chunk.js"
+    "revision": "3d3517c76d903fcb2cb1",
+    "url": "/DestructureLandingPage/static/js/main.c7b91098.chunk.js"
   },
   {
     "revision": "d511514db2701d7bea7f",
